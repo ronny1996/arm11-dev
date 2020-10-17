@@ -1,0 +1,2 @@
+PATH=$PATH:/home/ronny/workspace/pkg/crosstool-ng/bin
+PATH=$PATH:/home/ronny/workspace/pkg/arm-linux-crosstools
