@@ -1,0 +1,6 @@
+[submodule "bootloader/u-boot-2013.04-rc1"]
+	path = bootloader/u-boot-2013.04-rc1
+	url = git@github.com:ronny1996/u-boot-2013.04-rc1.git
+[submodule "kernel/linux-3.8.3"]
+	path = kernel/linux-3.8.3
+	url = git@github.com:ronny1996/linux-3.8.3.git
